@@ -8,5 +8,6 @@
     ],
     "require": {
         "phpunit/phpunit": "*"
-    }
+    },
+    "license": "MIT"
 }
