@@ -1,0 +1,12 @@
+{
+    "name": "phpunir/phpunit",
+    "authors": [
+        {
+            "name": "Maurizio Moreo",
+            "email": "maurizio.moreo@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "*"
+    }
+}
